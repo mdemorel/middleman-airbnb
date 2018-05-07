@@ -1,0 +1,30 @@
+- name: paris
+  local: Sebastien
+  github_nickname: 'ssaunier'
+  place: Charming room in Montmartre
+  stars: #
+- name: tokyo
+  local: Boris
+  github_nickname: 'Papillard'
+  place: Mt Fuji view from the rooftop
+  stars: #
+- name: London
+  local: Romain
+  github_nickname: 'Monsieurpaillard'
+  place: Nice place in Picadilly
+  stars: #
+- name: paris
+  local: Sebastien
+  github_nickname: 'ssaunier'
+  place: Charming room in Montmartre
+  stars: #
+- name: tokyo
+  local: Boris
+  github_nickname: 'Papillard'
+  place: Mt Fuji view from the rooftop
+  stars: #
+- name: London
+  local: Romain
+  github_nickname: 'Monsieurpaillard'
+  place: Nice place in Picadilly
+  stars: #
